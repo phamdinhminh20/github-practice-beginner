@@ -1,7 +1,9 @@
 # 🎯 GitHub Practice - Beginner Level
 
-> **Repo luyện tập GitHub dành cho sinh viên Việt Nam**
-> **✨ Updated by Pham Dinh Minh**
+
+> **Repo luyện tập GitHub - Collaborative Learning cho sinh viên**
+> **🤝 Được cập nhật bởi team: Phạm Đình Minh & team member**
+
 
 ## 📖 Giới thiệu
 
