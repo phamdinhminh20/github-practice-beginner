@@ -4,21 +4,12 @@
 
 ## Format:
 ```
-- [Tên đầy đủ] - [Trường/Khoa] - [Email] - [GitHub username]
+- Phạm Đình Minh - HUST/KT ô tô - minhphamdinh63@gmail.com - phamdinhminh20
 ```
 
 ## Danh sách:
 
-<!-- Thêm thông tin của bạn ở dưới dòng này -->
-- Maintainer - HUST/IT - maintainer@example.com - @maintainer
 
-<!-- 
-Ví dụ:
-- Nguyễn Văn A - HUST/CNTT - vana@gmail.com - @vana123
-- Trần Thị B - HUST/KHMT - thib@edu.vn - @thib456
--->
-
----
 
 📝 **Lưu ý:** 
 - Mỗi person một dòng
