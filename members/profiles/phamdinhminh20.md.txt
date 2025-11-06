@@ -1,0 +1,36 @@
+# 👋 Xin chào, tôi là Phạm Đình Minh!
+
+## 📊 Thông tin cơ bản
+- 🎓 **Trường:** Đại Học Bách khoa Hà Nội
+- 📚 **Khoa:** Khoa Cơ khí Động lực/ Kĩ thuật Ô tô  
+- 📅 **Năm học:** Năm 3
+- 📧 **Email:** minhphamdinh63@gmail.com
+- 🐙 **GitHub:** phamdinhminh20(https://github.com/phamdinhminh20)
+
+## 🎯 Mục tiêu học tập
+- [ ] Học Git/GitHub cơ bản
+- [ ] Hoàn thành khóa học Điện-điện tử
+
+## 💻 Kỹ năng đang học
+- **Ngôn ngữ lập trình:** Python,C,C++
+- **Tools:** Git, VS Code
+
+## 🌟 Dự án đã làm
+1. **Dự án này** - Luyện tập GitHub cơ bản 🎉
+
+## 🎮 Sở thích
+- 🎵 Nghe nhạc: Nhạc trẻ
+- 📚 Đọc sách: Truyện tranh  
+- ⚽ Thể thao: Bóng đá
+- 🎯 Khác: Chơi game
+
+
+## 📈 GitHub Stats
+<!-- Các bạn có thể thêm GitHub stats sau khi học xong -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamdinhminh20&show_icons=true&theme=radical)
+
+---
+
+**🚀 Cảm ơn bạn đã ghé thăm profile của tôi!**
+
+*Hãy kết nối với tôi qua [email](mailto:minhphamdinh63@gmail.com) hoặc [GitHub](https://github.com/phamdinhminh20)!*
